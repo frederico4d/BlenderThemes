@@ -1,7 +1,7 @@
 <bpy>
   <Theme>
     <user_interface>
-      <ThemeUserInterface menu_shadow_fac="0.456471"
+      <ThemeUserInterface menu_shadow_fac="0.395"
                           menu_shadow_width="0"
                           icon_file=""
                           icon_alpha="1"
@@ -11,7 +11,7 @@
                           axis_z="#0000dc">
         <wcol_regular>
           <ThemeWidgetColors outline="#c7c7c7"
-                             inner="#0000001f"
+                             inner="#a7a7a7ff"
                              inner_sel="#0062ee4d"
                              item="#5a5a5aff"
                              text="#000000"
@@ -23,7 +23,7 @@
         </wcol_regular>
         <wcol_tool>
           <ThemeWidgetColors outline="#c8c8c8"
-                             inner="#0000001f"
+                             inner="#a7a7a7ff"
                              inner_sel="#5a5a5aff"
                              item="#5a5a5aff"
                              text="#000000"
@@ -35,7 +35,7 @@
         </wcol_tool>
         <wcol_radio>
           <ThemeWidgetColors outline="#c8c8c8"
-                             inner="#0000001f"
+                             inner="#a7a7a7ff"
                              inner_sel="#0062ee4d"
                              item="#3b3b3b1a"
                              text="#000000"
@@ -47,7 +47,7 @@
         </wcol_radio>
         <wcol_text>
           <ThemeWidgetColors outline="#a7a7a7"
-                             inner="#0000001f"
+                             inner="#a7a7a7ff"
                              inner_sel="#0062ee4d"
                              item="#a7a7a7ff"
                              text="#000000"
@@ -59,7 +59,7 @@
         </wcol_text>
         <wcol_option>
           <ThemeWidgetColors outline="#999999"
-                             inner="#0000001f"
+                             inner="#a7a7a7ff"
                              inner_sel="#0062ee4d"
                              item="#ffffffff"
                              text="#000000"
@@ -71,7 +71,7 @@
         </wcol_option>
         <wcol_toggle>
           <ThemeWidgetColors outline="#c8c8c8"
-                             inner="#0000001f"
+                             inner="#a7a7a7ff"
                              inner_sel="#0062ee4d"
                              item="#191919ff"
                              text="#000000"
@@ -83,7 +83,7 @@
         </wcol_toggle>
         <wcol_num>
           <ThemeWidgetColors outline="#c8c8c8"
-                             inner="#0000001f"
+                             inner="#a7a7a7ff"
                              inner_sel="#999999ff"
                              item="#5a5a5aff"
                              text="#000000"
@@ -95,7 +95,7 @@
         </wcol_num>
         <wcol_numslider>
           <ThemeWidgetColors outline="#c8c8c8"
-                             inner="#d4d4d461"
+                             inner="#a7a7a7ff"
                              inner_sel="#999999ff"
                              item="#595959ff"
                              text="#000000"
@@ -119,7 +119,7 @@
         </wcol_box>
         <wcol_menu>
           <ThemeWidgetColors outline="#a7a7a7"
-                             inner="#0000001f"
+                             inner="#b3b3b3ff"
                              inner_sel="#747474ff"
                              item="#464646ff"
                              text="#050505"
@@ -131,7 +131,7 @@
         </wcol_menu>
         <wcol_pulldown>
           <ThemeWidgetColors outline="#c8c8c8"
-                             inner="#0000001a"
+                             inner="#b3b3b3ff"
                              inner_sel="#0062ee4d"
                              item="#ffffffff"
                              text="#000000"
@@ -179,7 +179,7 @@
         </wcol_tooltip>
         <wcol_menu_item>
           <ThemeWidgetColors outline="#c8c8c8"
-                             inner="#00000000"
+                             inner="#b3b3b300"
                              inner_sel="#0062ee4d"
                              item="#acacac76"
                              text="#000000"
@@ -191,7 +191,7 @@
         </wcol_menu_item>
         <wcol_scroll>
           <ThemeWidgetColors outline="#b9b9b9"
-                             inner="#0000002f"
+                             inner="#0000001f"
                              inner_sel="#646464b4"
                              item="#dbdbdbff"
                              text="#000000"
