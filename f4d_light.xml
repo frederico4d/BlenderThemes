@@ -97,7 +97,7 @@
           <ThemeWidgetColors outline="#c8c8c8"
                              inner="#a7a7a7ff"
                              inner_sel="#999999ff"
-                             item="#595959ff"
+                             item="#888888ff"
                              text="#000000"
                              text_sel="#ffffff"
                              show_shaded="FALSE"
@@ -228,8 +228,8 @@
         <wcol_state>
           <ThemeWidgetStateColors inner_anim="#73be4c"
                                   inner_anim_sel="#5aa633"
-                                  inner_key="#f0eb64"
-                                  inner_key_sel="#d7d34b"
+                                  inner_key="#fffb59"
+                                  inner_key_sel="#ffe249"
                                   inner_driven="#b400ff"
                                   inner_driven_sel="#9900e6"
                                   blend="0.5">
