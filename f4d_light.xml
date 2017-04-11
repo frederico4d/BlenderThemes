@@ -10,7 +10,7 @@
                           axis_y="#00dc00"
                           axis_z="#0000dc">
         <wcol_regular>
-          <ThemeWidgetColors outline="#bebebe"
+          <ThemeWidgetColors outline="#c7c7c7"
                              inner="#a7a7a7ff"
                              inner_sel="#0062ee4d"
                              item="#000000ff"
@@ -22,7 +22,7 @@
           </ThemeWidgetColors>
         </wcol_regular>
         <wcol_tool>
-          <ThemeWidgetColors outline="#bebebe"
+          <ThemeWidgetColors outline="#c8c8c8"
                              inner="#a7a7a7ff"
                              inner_sel="#858585ff"
                              item="#000000ff"
@@ -34,7 +34,7 @@
           </ThemeWidgetColors>
         </wcol_tool>
         <wcol_radio>
-          <ThemeWidgetColors outline="#bebebe"
+          <ThemeWidgetColors outline="#c8c8c8"
                              inner="#a7a7a7ff"
                              inner_sel="#0062ee4d"
                              item="#3b3b3b1a"
@@ -46,7 +46,7 @@
           </ThemeWidgetColors>
         </wcol_radio>
         <wcol_text>
-          <ThemeWidgetColors outline="#bebebe"
+          <ThemeWidgetColors outline="#a7a7a7"
                              inner="#a7a7a7ff"
                              inner_sel="#0062ee4d"
                              item="#a7a7a7ff"
@@ -58,7 +58,7 @@
           </ThemeWidgetColors>
         </wcol_text>
         <wcol_option>
-          <ThemeWidgetColors outline="#a7a7a7"
+          <ThemeWidgetColors outline="#999999"
                              inner="#a7a7a7ff"
                              inner_sel="#0062ee4d"
                              item="#ffffffff"
@@ -82,7 +82,7 @@
           </ThemeWidgetColors>
         </wcol_toggle>
         <wcol_num>
-          <ThemeWidgetColors outline="#a7a7a7"
+          <ThemeWidgetColors outline="#c8c8c8"
                              inner="#a7a7a7ff"
                              inner_sel="#999999ff"
                              item="#5a5a5aff"
@@ -94,7 +94,7 @@
           </ThemeWidgetColors>
         </wcol_num>
         <wcol_numslider>
-          <ThemeWidgetColors outline="#a7a7a7"
+          <ThemeWidgetColors outline="#c8c8c8"
                              inner="#a7a7a7ff"
                              inner_sel="#999999ff"
                              item="#888888ff"
@@ -683,7 +683,7 @@
       </ThemeProperties>
     </properties>
     <text_editor>
-      <ThemeTextEditor line_numbers_background="#404040"
+      <ThemeTextEditor line_numbers_background="#c3ccd8"
                        selected_text="#b6d2ff"
                        cursor="#ff0000"
                        syntax_builtin="#bd0078"
@@ -765,22 +765,22 @@
                        selected_text="#7f7070"
                        node_backdrop="#ffffffff"
                        converter_node="#686a75"
-                       color_node="#6c696f"
-                       group_node="#69756e"
-                       group_socket_node="#dfca35"
+                       color_node="#d1d1d1"
+                       group_node="#afc3b8"
+                       group_socket_node="#ffe83d"
                        frame_node="#9b9b9ba0"
                        matte_node="#977474"
                        distor_node="#749797"
                        noodle_curving="5"
-                       input_node="#646464"
-                       output_node="#646464"
-                       filter_node="#6c696f"
-                       vector_node="#6c696f"
-                       texture_node="#6c696f"
-                       shader_node="#6c696f"
-                       script_node="#6c696f"
-                       pattern_node="#6c696f"
-                       layout_node="#6c696f">
+                       input_node="#d1d1d1"
+                       output_node="#d1d1d1"
+                       filter_node="#d1d1d1"
+                       vector_node="#d1d1d1"
+                       texture_node="#d1d1d1"
+                       shader_node="#d1d1d1"
+                       script_node="#d1d1d1"
+                       pattern_node="#d1d1d1"
+                       layout_node="#151516">
         <space>
           <ThemeSpaceGeneric back="#7e7e7e"
                              title="#000000"
